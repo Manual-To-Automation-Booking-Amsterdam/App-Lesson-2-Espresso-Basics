@@ -30,8 +30,9 @@ Follow the below steps to get the code onto your local machine.
 * Open a terminal. (Terminal on Mac, Command Prompt on Windows)
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
+
 ```sh
-git clone https://github.com/Manual-To-Automation-Sky/Espresso-Lesson-1-Introduction.git.
+git clone https://github.com/Manual-To-Automation-Booking-Amsterdam/App-Lesson-2-Espresso-Basics.git
 ```
 * Open Android Studio
 * Click Open
